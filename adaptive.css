@@ -1,0 +1,951 @@
+@media (min-width: 1331px) and (max-width: 1600px) {
+    .features {
+        width: 1300px;
+    }
+    .product_label {
+        width: 90%;
+    }
+}
+@media (min-width: 1300px) and (max-width: 1330px) {
+    .center_header {
+        gap: 90px;
+    }
+    .brands {
+        gap: 70px;
+    } .brand {
+        width: 100px;
+    }
+
+
+
+    .features {
+        width: 1300px;
+    }
+    .product_label {
+        width: 90%;
+    }
+}
+@media (min-width: 1131px) and (max-width: 1299px) {
+    .rights_reserved :nth-child(1) {font-size: small;} 
+    .rights_reserved :nth-child(2) {font-size: x-large;}
+    .product_label {
+        height: 700px;
+        width: 90%;
+    }
+    .center_header {
+        gap: 90px;
+    }
+    .grid-1 {
+        width: 900px;
+    }
+    .features {
+        width: 1100px;
+    }
+    .grid-features {
+        width: 950px;
+        height: 490px; 
+    }
+    .grid-2 {
+        width: 920px;
+        height: 1400px;
+    } .a, .b {width: 920px;}
+    .footer_button {width: 920px;}
+
+    .product_img {
+        width: 85%;
+        height: 75%;
+    }
+
+    .left_P :nth-child(1), .right_P :nth-child(1) {
+        font-size: medium;
+    }
+    .left_P :nth-child(2), .right_P :nth-child(2) {
+        font-size: small;
+    }
+
+    .brands {
+        gap: 70px;
+    } 
+     .brand {
+        width: 100px;
+    }
+}
+
+@media (min-width: 951px) and (max-width: 1130px) {
+    .rights_reserved :nth-child(1) {font-size: small;} 
+    .rights_reserved :nth-child(2) {font-size: x-large;}
+
+    .center_header {
+        gap: 60px;
+    }
+    .header_icon_text {font-size: x-small;}
+    .header_icons {gap: 30px;}
+    .brands {
+        gap: 50px;
+    } 
+     .brand img {
+        width: 70px;
+        height: 40px;
+    }
+    .product_label {
+        height: 500px;
+        width: 99%;
+    } .wooden_chair {
+        height: 500px;
+        width: 1100px;
+    }
+    .grid-1 {
+        width: 900px;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr;
+    }
+    .features {
+        height: 900px;
+        width: 90%;
+    }
+    .grid-features {
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 300px 500px;
+
+        width: 700px;
+        height: 830px; 
+    } .flex_product_text {
+        grid-column: span 2;
+        align-items: flex-end;
+    }
+    .grid-2 {
+        height: 2520px;
+        width: 670px;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    } .a, .b {width: 670px;} .footer_button {width: 670px;}
+
+    .left_P :nth-child(1), .right_P :nth-child(1) {
+        font-size: x-large;
+    }
+}
+
+@media (min-width: 751px) and (max-width: 950px) { /*   5   */
+    .TRI-O_parent img {
+        width: 50px; height: 10px;
+    }
+    .right_icons i {
+        font-size: small;
+    }
+    .rights_reserved :nth-child(1) {font-size: small;} 
+    .rights_reserved :nth-child(2) {font-size: x-large; left: 60%;}
+
+    .center_header {
+        gap: 40px;
+    }
+    .header_icon_text {font-size: x-small;}
+    .header_icons {gap: 30px;}
+    .brands {
+        gap: 50px;
+    } 
+     .brand img {
+        width: 70px;
+        height: 40px;
+    }
+
+
+    .product_label {
+        height: 500px;
+        width: 99%;
+    } .wooden_chair {
+        height: 500px;
+        width: 1100px;
+    }
+    .grid-1 {
+        width: 650px;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr;
+    }
+
+    .features {
+        height: 1000px;
+        width: 100%;
+    }
+    .grid-features {
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 300px 500px;
+
+        width: 700px;
+        height: 830px; 
+    } .flex_product_text {
+        grid-column: span 2;
+        align-items: flex-end;
+    }
+
+    .grid-2 {
+        height: 2520px;
+        width: 670px;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    } .a, .b {width: 670px;} .footer_button {width: 670px;}
+
+}
+
+ @media (min-width: 671px) and (max-width: 750px) {  /* 6 */
+    .label_text {left: 20%}
+    .label_text  :nth-child(1) {font-size: 25px;}
+    .TRI-O_parent img {
+        width: 50px; height: 10px;
+    }
+    .right_icons i {
+        font-size: x-small;
+    }
+    .rights_reserved :nth-child(1) {font-size: xx-small;} 
+    .rights_reserved :nth-child(2) {font-size: x-large; left: 70%;}
+
+    .center_header {
+        gap: 40px;
+    }
+    .header_icon_text {font-size: xx-small;}
+    .header_icons {gap: 10px;}
+    .two_elements i {font-size: xx-small;}
+    .brands {
+        gap: 50px;
+    } 
+     .brand img {
+        width: 50px;
+        height: 30px;
+    }
+
+
+
+
+    .product_label {
+        height: 400px;
+        width: 99%;
+    } .wooden_chair {
+        height: 400px;
+        width: 900px;
+    }
+    .grid-1 {
+        width: 550px;
+        gap: 10px;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr;
+    } .left_P :nth-child(1), .right_P :nth-child(1) {
+        font-size: medium;
+    }
+    .left_P :nth-child(2), .right_P :nth-child(2) {
+        font-size: small;
+    }
+
+    .features {
+        height: 900px;
+        width: 98%;
+    }
+    .grid-features {
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 300px 436px;
+
+        width: 570px;
+        height: 830px; 
+    } .flex_product_text {
+        grid-column: span 2;
+        align-items: flex-end;
+    }
+    .item:hover .anim {
+        transform: translateY(-60px);
+    }
+    .grid-2 {
+        height: 2300px;
+        width: 570px;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    } .a, .b {width: 570px;} .footer_button {width: 570px;}
+
+}
+
+
+
+
+
+
+
+
+
+@media (min-width: 601px) and (max-width: 670px) {  /*  7   */
+    #main_1 {gap: 80px;}
+    .label_text {left: 10%}
+    .label_text  :nth-child(1) {font-size: 25px;}
+    .TRI-O_parent img {
+        width: 50px; height: 10px;
+    }
+    .right_icons i {
+        font-size: x-small;
+    }
+    .rights_reserved :nth-child(1) {font-size: xx-small;} 
+    .rights_reserved :nth-child(2) {font-size: x-large; left: 70%;}
+
+    .center_header {
+        gap: 40px;
+    }
+    .header_icon_text {font-size: xx-small;}
+    .header_icons {gap: 10px;}
+    .two_elements i {font-size: xx-small;}
+    .brands {
+        gap: 50px;
+    } 
+     .brand img {
+        width: 30px;
+        height: 20px;
+    }
+
+
+
+
+    .product_label {
+        width: 99%;
+    } .wooden_chair {
+        height: 300px;
+        width: 600px;
+    }
+    .grid-1 {
+        width: 90%;
+        height: 2450px;
+         aspect-ratio: none;
+        gap: 10px;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(5, 1fr);
+    }
+    .left_P :nth-child(1), .right_P :nth-child(1) {
+        font-size: x-large;
+    }.left_P :nth-child(2), .right_P :nth-child(2) {
+        font-size: small;
+    }
+
+    .features {
+        height: 2000px;
+        width: 98%;
+    }
+    .grid-features {
+        grid-template-columns: 1fr;
+        grid-template-rows: 280px 800px 800px;
+
+        width: 570px;
+        height: auto;
+    } .anim_text {font-size: 20px;}
+    .item:hover .anim {
+        transform: translateY(-110px);
+    }
+    .grid-2 {
+        height: auto;
+        width: 570px;
+         gap: 10px;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(9, 800px);
+    } .a, .b {width: 570px;} .footer_button {width: 570px;}
+}
+
+
+
+
+
+
+@media (min-width: 536px) and (max-width: 600px) {  /*  8   */
+    .label_text {left: 10%}
+    .label_text  :nth-child(1) {font-size: 20px;}
+    .label_text  :nth-child(2) {font-size: small;}
+    .label_text  :nth-child(3) {font-size: small;}
+    .TRI-O_parent img {
+        width: 50px; height: 10px;
+    }
+    .right_icons i {
+        font-size: xx-small;
+    }
+    .rights_reserved :nth-child(1) {font-size: xx-small;} 
+    .rights_reserved :nth-child(2) {font-size: x-large; left: 70%;}
+
+    .center_header {
+        gap: 30px;
+    }
+    .header_icon_text {font-size: xx-small;}
+    .header_icons {gap: 10px;}
+    .two_elements i {font-size: 5px;}
+    .brands {
+        gap: 50px;
+    } 
+     .brand img {
+        width: 30px;
+        height: 20px;
+    }
+
+    .sub_zone :nth-child(1) {font-size: large;}
+    .email_write {width: 250px;}
+    .subscribe_button {width: 100px;}
+    .subscribe_button :nth-child(1) {font-size: x-small;}
+
+
+    .product_label {
+        width: 99%;
+    } .wooden_chair {
+        height: 250px;
+        width: 500px;
+    }
+    .grid-1 {
+        width: 90%;
+        height: 2100px;
+         aspect-ratio: none;
+        gap: 10px;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(5, 1fr);
+    }
+    .left_P :nth-child(1), .right_P :nth-child(1) {
+        font-size: x-large;
+    }.left_P :nth-child(2), .right_P :nth-child(2) {
+        font-size: small;
+    }
+
+    .features {
+        height: 1900px;
+        width: 98%;
+    }
+    .grid-features {
+        grid-template-columns: 1fr;
+        grid-template-rows: 280px 600px 600px;
+
+        width: 400px;
+        height: auto;
+    } .anim_text {font-size: 20px;}
+    .item:hover .anim {
+        transform: translateY(-80px);
+    }
+    .grid-2 {
+        height: auto;
+        width: 400px;
+         gap: 10px;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(9, 600px);
+    } .a, .b {width: 480px;} .footer_button {width: 400px;}
+}
+
+
+
+
+@media (min-width: 421px) and (max-width: 535px) {  /*  9   */
+    .label_text {left: 10%}
+    .label_text  :nth-child(1) {font-size: 20px;}
+    .label_text  :nth-child(2) {font-size: small;}
+    .label_text  :nth-child(3) {font-size: small;}
+    .TRI-O_parent img {
+        width: 80px; height: 20px;
+    }
+    .right_icons i {
+        font-size: small;
+    }
+    .rights_reserved :nth-child(1) {font-size: 7px;} 
+    .rights_reserved :nth-child(2) {font-size: large; left: 70%;}
+
+    .center_header {
+        gap: 10px;
+    }
+    .header_icon_text {font-size: xx-small;}
+    .header_icons {gap: 10px;}
+    .two_elements i {font-size: 0px;}
+    .two_elements p {font-size: 0px;}
+    .brands {
+        gap: 10px;
+    } 
+     .brand img {
+        width: 30px;
+        height: 15px;
+    }
+    .sub_zone :nth-child(1) {font-size: large;}
+    .email_write {width: 200px; height: 50px;}
+    .subscribe_button {width: 100px; height: 50px;}
+    .subscribe_button :nth-child(1) {font-size: x-small;}
+
+
+
+    .product_label {
+        width: 99%;
+    } .wooden_chair {
+        height: 300px;
+        width: 100%;
+    }
+    .grid-1 {
+        width: 80%;
+        height: 1700px;
+         aspect-ratio: none;
+        gap: 10px;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(5, 1fr);
+    }
+    .left_P :nth-child(1), .right_P :nth-child(1) {
+        font-size: large;
+    }.left_P :nth-child(2), .right_P :nth-child(2) {
+        font-size: x-small;
+    }
+
+    .features {
+        height: 1700px;
+        width: 98%;
+    }
+    .grid-features {
+        grid-template-columns: 1fr;
+        grid-template-rows: 280px 500px 500px;
+
+        width: 350px;
+        height: auto;
+    } .anim_text {font-size: 20px;}
+    .item:hover .anim {
+        transform: translateY(-80px);
+    }
+    .grid-2 {
+        height: auto;
+        width: 350px;
+         gap: 10px;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(9, 500px);
+    } .a, .b {width: 350px;} .footer_button {width: 350px;}
+    .a p {font-size: x-large;}
+}
+
+
+
+
+
+
+
+
+@media (min-width: 371px) and (max-width: 420px) {  /*  10   */
+    .flex_text_button {
+        width: 200px;
+        height: 50px;
+    }
+    .label_text {left: 10%}
+    .label_text  :nth-child(1) {font-size: 20px;}
+    .label_text  :nth-child(2) {font-size: small;}
+    .label_text  :nth-child(3) {font-size: small;}
+    .TRI-O_parent img {
+        width: 80px; height: 20px;
+    }
+    .right_icons i {
+        font-size: small;
+    }
+    .rights_reserved :nth-child(1) {font-size: 7px;} 
+    .rights_reserved :nth-child(2) {font-size: medium; left: 70%;}
+
+    .center_header {
+        gap: 10px;
+    }
+    .header_icon_text {font-size: xx-small;}
+    .header_icons {gap: 10px;}
+    .two_elements i {font-size: 0px;}
+    .two_elements p {font-size: 0px;}
+    .brands {
+        gap: 10px;
+    } 
+     .brand img {
+        width: 30px;
+        height: 15px;
+    }
+    .sub_zone {width: 100%; height: auto;}
+    .sub_zone :nth-child(1) {font-size: x-large;}
+    .email_write {width: auto; height: auto;}
+    .subscribe_button {width: auto; height: auto;}
+    .subscribe_button :nth-child(1) {font-size: x-small;}
+    .mail_container {
+        display: grid;
+        grid-template-columns: 100%;
+        grid-template-rows: 50px 50px;
+    }
+
+
+    .product_label {
+        width: 99%;
+    } .wooden_chair {
+        height: 300px;
+        width: 100%;
+    }
+    .grid-1 {
+        width: 80%;
+        height: 1500px;
+         aspect-ratio: none;
+        gap: 10px;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(5, 1fr);
+    }
+    .left_P :nth-child(1), .right_P :nth-child(1) {
+        font-size: large;
+    }.left_P :nth-child(2), .right_P :nth-child(2) {
+        font-size: x-small;
+    }
+
+    .features {
+        height: 1500px;
+        width: 98%;
+    }
+    .grid-features {
+        grid-template-columns: 1fr;
+        grid-template-rows: 280px 400px 400px;
+         gap: 50px;
+        width: 70%;
+        height: auto;
+    } .anim_text {font-size: 20px;}
+    .item:hover .anim {
+        transform: translateY(-80px);
+    }
+    .grid-2 {
+        height: auto;
+        width: 70%;
+         gap: 10px;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(9, 400px);
+    } .a, .b {width: 350px;} .footer_button {width: 70%;}
+    .a p {font-size: x-large;}
+}
+
+
+
+
+
+
+
+
+@media (min-width: 100px) and (max-width: 370px) {  /*  11   */
+    #main_1 {gap: 50px;}
+    .flex_text_button {
+        width: 200px;
+        height: 50px;
+    }
+    .label_text {left: 10%; gap: 10px}
+    .label_text  :nth-child(1) {font-size: 15px;}
+    .label_text  :nth-child(2) {font-size: x-small;}
+    .label_text  :nth-child(3) {font-size: x-small;}
+    .TRI-O_parent img {
+        width: 80px; height: 20px;
+    }
+    .right_icons i {
+        font-size: small;
+    }
+    .rights_reserved :nth-child(1) {font-size: 6px;} 
+    .rights_reserved :nth-child(2) {font-size: small; left: 75%;}
+
+    .center_header {
+        gap: 10px;
+    }
+    .header_icon_text {font-size: xx-small;}
+    .header_icons {gap: 10px;}
+    .two_elements i {font-size: 0px;}
+    .two_elements p {font-size: 0px;}
+    .brands {
+        gap: 10px;
+    } 
+     .brand img {
+        width: 30px;
+        height: 15px;
+    }
+    .sub_zone {width: 100%; height: auto;}
+    .sub_zone :nth-child(1) {font-size: x-large;}
+    .email_write {width: auto; height: auto;}
+    .subscribe_button {width: auto; height: auto;}
+    .subscribe_button :nth-child(1) {font-size: x-small;}
+    .mail_container {
+        display: grid;
+        grid-template-columns: 100%;
+        grid-template-rows: 50px 50px;
+    }
+
+
+    .product_label {
+        width: 99%;
+    } .wooden_chair {
+        height: 200px;
+        width: 100%;
+    }
+    .grid-1 {
+        width: 80%;
+        height: 1200px;
+         aspect-ratio: none;
+        gap: 10px;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(5, 1fr);
+    }
+    .left_P :nth-child(1), .right_P :nth-child(1) {
+        font-size: medium;
+    }.left_P :nth-child(2), .right_P :nth-child(2) {
+        font-size: x-small;
+    }
+
+    .features {
+        height: 1300px;
+        width: 98%;
+    }
+    .grid-features {
+        grid-template-columns: 1fr;
+        grid-template-rows: 280px 340px 340px;
+         gap: 50px;
+        width: 70%;
+        height: auto;
+    } .anim_text {font-size: 20px;}
+    .item:hover .anim {
+        transform: translateY(-80px);
+    }
+    .grid-2 {
+        height: auto;
+        width: 70%;
+         gap: 40px;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(9, 340px);
+    } .a, .b {width: 70%;} .footer_button {width: 70%;}
+    .a p {font-size: x-large;}
+
+
+    .grid_circle_big {
+        width: 70px;
+        height: 70px;
+    } .grid_circle_big p {font-size:  small;}
+    .grid_circle_small {
+        width: 50px; height: 50px;
+    } .grid_circle_small p {
+        font-size: small;
+    }
+}
+
+/* -------------------------------------------------- */
+
+
+
+/* ============================ */
+/* ЛАНДШАФТ ТЕЛЕФОНОВ */
+/* ============================ */
+
+@media (orientation: landscape) and (max-height: 500px) {
+    /* HEADER - компактный для ландшафта */
+    header {
+        height: 60px;
+        position: relative;
+    }
+    
+    .center_header {
+        gap: 15px;
+        justify-content: space-between;
+        padding: 0 10px;
+    }
+    
+    /* Навигация скрыта, только бургер */
+    .header_icons {
+        display: none;
+    }
+    
+    .TRI-O_parent img {
+        width: 60px;
+        height: 15px;
+    }
+    
+    .right_icons {
+        gap: 15px;
+    }
+    
+    .right_icons i {
+        font-size: 16px;
+    }
+    
+    /* Основной контент */
+    #main_1 {
+        padding-top: 0;
+        gap: 40px;
+        margin-top: 20px;
+    }
+    
+    /* Главный баннер */
+    .product_label {
+        height: 35vh;
+        min-height: 200px;
+        max-height: 250px;
+        width: 95%;
+        margin: 0 auto;
+    }
+    
+    .wooden_chair {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    
+    .label_text {
+        left: 5%;
+        gap: 10px;
+    }
+    
+    .label_text :nth-child(1) {
+        font-size: 22px;
+    }
+    
+    .label_text :nth-child(2) {
+        font-size: 14px;
+    }
+    
+    .shop_now {
+        font-size: 12px;
+        padding: 6px 12px;
+    }
+    
+    /* Сетка 1 - горизонтальная для ландшафта */
+    .grid-1 {
+        width: 95%;
+        height: 150px;
+        grid-template-columns: repeat(5, 1fr);
+        grid-template-rows: 1fr;
+        gap: 8px;
+    }
+    
+    .g1-2 {
+        grid-row: span 1;
+    }
+    
+    /* Текст на картинках */
+    .left_P, .right_P {
+        gap: 5px;
+    }
+    
+    .left_P :nth-child(1), .right_P :nth-child(1) {
+        font-size: 12px;
+    }
+    
+    .left_P :nth-child(2), .right_P :nth-child(2) {
+        font-size: 10px;
+    }
+    
+    /* Features секция */
+    .features {
+        height: auto;
+        min-height: 400px;
+        width: 95%;
+        padding: 20px 0;
+    }
+    
+    .grid-features {
+        width: 50%;
+        height: auto;
+        grid-template-columns: 1fr;
+        grid-template-rows: auto auto auto;
+        gap: 20px;
+    }
+    
+    .flex_product_text {
+        grid-column: 1;
+        padding: 0 10px;
+    }
+    
+    .big_text {
+        font-size: 24px;
+    }
+    
+    .small_text {
+        font-size: 13px;
+        line-height: 1.4;
+    }
+    
+    .flex_text_button {
+        width: 180px;
+        height: 50px;
+    }
+    
+    /* Карточки продуктов */
+    .flex_product {
+        height: 250px;
+    }
+    
+    .item {
+        height: 70%;
+    }
+    
+    .span {
+        height: 30%;
+    }
+    
+    .item:hover .anim {
+        transform: translateY(-40px);
+    }
+    
+    /* Newsletter */
+    .newsletter {
+        height: 180px;
+        width: 95%;
+    }
+    
+    .mail_container {
+        flex-direction: column;
+        gap: 10px;
+        width: 90%;
+        margin: 0 auto;
+    }
+    
+    .email_write, .subscribe_button {
+        width: 100%;
+        height: 45px;
+    }
+    
+    /* Products grid */
+    #main_2 {
+        margin-top: 50px;
+        gap: 20px;
+    }
+    
+    .grid-2 {
+        width: 95%;
+        height: auto;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(3, 250px);
+        gap: 15px;
+    }
+    
+    .a, .b {
+        width: 95%;
+        padding: 0 10px;
+    }
+    
+    .footer_button {
+        width: 95%;
+        height: 50px;
+        margin: 20px auto;
+    }
+    
+    /* Footer */
+    footer {
+        margin-top: 50px;
+    }
+    
+    .go_center {
+        height: 100px;
+    }
+    
+    .brands {
+        gap: 20px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    .brand img {
+        width: 40px;
+        height: 25px;
+    }
+    
+    .rights_reserved {
+        height: 100px;
+    }
+    
+    .rights_reserved :nth-child(1) {
+        font-size: 10px;
+        left: 10px;
+        top: 30%;
+    }
+    
+    .rights_reserved :nth-child(2) {
+        font-size: 14px;
+        left: 70%;
+        top: 30%;
+    }
+
+    .product_img {
+        width: 78%; height: 80%;
+    } .abc {
+        width: 45%;
+    }
+}
